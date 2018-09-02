@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "title": "Medan",
+      "description": "Medan is a city in Indonesia that delivers ethnic diversities and scrumptious ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Medan-small.jpg"
+    },
+    {
+      "title": "Raja Ampat",
+      "description": "Raja Ampat is where you should travel to experience the exotic underwater magic ...",
+      "image": "/content/dam/indtravelrevamp/activities/Destination-highlight/rajampat-small.jpg"
+    },
+    {
+      "title": "Bali",
+      "description": "Bali is one of the best tropical paradise Indonesia. People worldwide, travel ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Bali-small.jpg"
+    },
+    {
+      "title": "Banyuwangi",
+      "description": "Banyuwangi literally means Aromatic Water, which is associated with the local ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Banyuwangi-small.jpg"
+    },
+    {
+      "title": "Bintan Island",
+      "description": "With all of its mesmerizing fascinations, Bintan Island is a paradise you ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/bintan-island/header1-small.jpg"
+    },
+    {
+      "title": "Jakarta",
+      "description": "Jakarta is the heart of Indonesia, a sprawling capital city, a vibrant ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/java/dki-jakarta/jkt-small.jpg"
+    },
+    {
+      "title": "Yogyakarta",
+      "description": "Yogyakarta, or also known as Jogja is the twin city of Surakarta (Solo), the ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/java/di-yogyakarta/yogyakarta/yogya-small.jpg"
+    },
+    {
+      "title": "Bandung",
+      "description": "Bandung is considered as the most artistic city of Indonesia. Visit Bandung and ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/java/west-java/bandung/bdg-small.jpg"
+    },
+    {
+      "title": "Makassar",
+      "description": "Makassar is the largest city in eastern Indonesia and the capital city of South ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Makassar-small.jpg"
+    },
+    {
+      "title": "Lombok",
+      "description": "With divine beaches, the majestic Mt Rinjani and spectacular marine life to ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/LOmbok-small.jpg"
+    },
+    {
+      "title": "Wakatobi",
+      "description": "Wakatobi, Home to Tropical Coral Reef and Colourful Fishes.",
+      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Wakatobi-new2.jpg"
+    },
+    {
+      "title": "Batam",
+      "description": "Located on the tip of Indonesia border just across Singapore Island, Batam is a ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Batam-new2.jpg"
+    },
+    {
+      "title": "Solo",
+      "description": "Absorb yourself in history with a becak ride through the old city. ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Solo-new2.jpg"
+    },
+    {
+      "title": "Semarang",
+      "description": "In the 15th century, Chinese emperor’s emissary Zheng He, otherwise known as ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Semarang-new2.jpg"
+    },
+    {
+      "title": "Lake Toba",
+      "description": "Lake Toba is one of the awesome natural wonders of the world. This enormous ...",
+      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Lake-toba-new2.jpg"
+    }
+  ]
+}
