@@ -1,79 +1,785 @@
 {
-  "products": [
-    {
-      "title": "Medan",
-      "description": "Medan is a city in Indonesia that delivers ethnic diversities and scrumptious ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Medan-small.jpg"
-    },
-    {
-      "title": "Raja Ampat",
-      "description": "Raja Ampat is where you should travel to experience the exotic underwater magic ...",
-      "image": "/content/dam/indtravelrevamp/activities/Destination-highlight/rajampat-small.jpg"
-    },
-    {
-      "title": "Bali",
-      "description": "Bali is one of the best tropical paradise Indonesia. People worldwide, travel ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Bali-small.jpg"
-    },
-    {
-      "title": "Banyuwangi",
-      "description": "Banyuwangi literally means Aromatic Water, which is associated with the local ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Banyuwangi-small.jpg"
-    },
-    {
-      "title": "Bintan Island",
-      "description": "With all of its mesmerizing fascinations, Bintan Island is a paradise you ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/bintan-island/header1-small.jpg"
-    },
-    {
-      "title": "Jakarta",
-      "description": "Jakarta is the heart of Indonesia, a sprawling capital city, a vibrant ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/java/dki-jakarta/jkt-small.jpg"
-    },
-    {
-      "title": "Yogyakarta",
-      "description": "Yogyakarta, or also known as Jogja is the twin city of Surakarta (Solo), the ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/java/di-yogyakarta/yogyakarta/yogya-small.jpg"
-    },
-    {
-      "title": "Bandung",
-      "description": "Bandung is considered as the most artistic city of Indonesia. Visit Bandung and ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/java/west-java/bandung/bdg-small.jpg"
-    },
-    {
-      "title": "Makassar",
-      "description": "Makassar is the largest city in eastern Indonesia and the capital city of South ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Makassar-small.jpg"
-    },
-    {
-      "title": "Lombok",
-      "description": "With divine beaches, the majestic Mt Rinjani and spectacular marine life to ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/LOmbok-small.jpg"
-    },
-    {
-      "title": "Wakatobi",
-      "description": "Wakatobi, Home to Tropical Coral Reef and Colourful Fishes.",
-      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Wakatobi-new2.jpg"
-    },
-    {
-      "title": "Batam",
-      "description": "Located on the tip of Indonesia border just across Singapore Island, Batam is a ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Batam-new2.jpg"
-    },
-    {
-      "title": "Solo",
-      "description": "Absorb yourself in history with a becak ride through the old city. ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Solo-new2.jpg"
-    },
-    {
-      "title": "Semarang",
-      "description": "In the 15th century, Chinese emperor’s emissary Zheng He, otherwise known as ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Semarang-new2.jpg"
-    },
-    {
-      "title": "Lake Toba",
-      "description": "Lake Toba is one of the awesome natural wonders of the world. This enormous ...",
-      "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Lake-toba-new2.jpg"
+  "home": {
+    "slides": [
+      {
+        "title": "Medan",
+        "description": "Medan is a city in Indonesia that delivers ethnic diversities and scrumptious ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Medan-small.jpg"
+      },
+      {
+        "title": "Raja Ampat",
+        "description": "Raja Ampat is where you should travel to experience the exotic underwater magic ...",
+        "image": "/content/dam/indtravelrevamp/activities/Destination-highlight/rajampat-small.jpg"
+      },
+      {
+        "title": "Bali",
+        "description": "Bali is one of the best tropical paradise Indonesia. People worldwide, travel ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Bali-small.jpg"
+      },
+      {
+        "title": "Banyuwangi",
+        "description": "Banyuwangi literally means Aromatic Water, which is associated with the local ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Banyuwangi-small.jpg"
+      },
+      {
+        "title": "Bintan Island",
+        "description": "With all of its mesmerizing fascinations, Bintan Island is a paradise you ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/bintan-island/header1-small.jpg"
+      },
+      {
+        "title": "Jakarta",
+        "description": "Jakarta is the heart of Indonesia, a sprawling capital city, a vibrant ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/java/dki-jakarta/jkt-small.jpg"
+      },
+      {
+        "title": "Yogyakarta",
+        "description": "Yogyakarta, or also known as Jogja is the twin city of Surakarta (Solo), the ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/java/di-yogyakarta/yogyakarta/yogya-small.jpg"
+      },
+      {
+        "title": "Bandung",
+        "description": "Bandung is considered as the most artistic city of Indonesia. Visit Bandung and ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/java/west-java/bandung/bdg-small.jpg"
+      },
+      {
+        "title": "Makassar",
+        "description": "Makassar is the largest city in eastern Indonesia and the capital city of South ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Makassar-small.jpg"
+      },
+      {
+        "title": "Lombok",
+        "description": "With divine beaches, the majestic Mt Rinjani and spectacular marine life to ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/LOmbok-small.jpg"
+      },
+      {
+        "title": "Wakatobi",
+        "description": "Wakatobi, Home to Tropical Coral Reef and Colourful Fishes.",
+        "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Wakatobi-new2.jpg"
+      },
+      {
+        "title": "Batam",
+        "description": "Located on the tip of Indonesia border just across Singapore Island, Batam is a ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Batam-new2.jpg"
+      },
+      {
+        "title": "Solo",
+        "description": "Absorb yourself in history with a becak ride through the old city. ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Solo-new2.jpg"
+      },
+      {
+        "title": "Semarang",
+        "description": "In the 15th century, Chinese emperor’s emissary Zheng He, otherwise known as ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Semarang-new2.jpg"
+      },
+      {
+        "title": "Lake Toba",
+        "description": "Lake Toba is one of the awesome natural wonders of the world. This enormous ...",
+        "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Lake-toba-new2.jpg"
+      }
+    ],
+    "destinations": {
+      "java": [
+        {
+          "title": "Serang",
+          "lat-long": "-6.1105671,106.1240001,Serang",
+          "description": "Serang is the capital of Banten Province which formerly the administrative ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/banten/serang/c5071ee47f3f277653668623243b8fa4aedfe317-b576a.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Solo",
+          "lat-long": "-7.5591225,110.7837924,Solo",
+          "description": "Absorb yourself in history with a becak ride through the old city. ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Solo-new2.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Yogyakarta",
+          "lat-long": "-7.803164,110.3398251,Want to explore Yogyakarta? Learn these first - Indonesia.Travel",
+          "description": "Yogyakarta, or also known as Jogja is the twin city of Surakarta (Solo), the ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/di-yogyakarta/yogyakarta/yogya-small.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Bandung",
+          "lat-long": "-6.9034443,107.5731165,Eager to visit Bandung? Find the helpful tips here – Indonesia.Travel",
+          "description": "Bandung is considered as the most artistic city of Indonesia. Visit Bandung and ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/west-java/bandung/bdg-small.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Ujung Kulon National Park",
+          "lat-long": "-6.7846891,105.3729201,Ujung Kulon National Park",
+          "description": "Ujung Kulon National Park, One of the World’s Most Pristine Natural Ecosystem",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/banten/ujung-kulon-national-park/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Meru Betiri National Park",
+          "lat-long": "-8.19368,113.7182448,Meru Betiri National Park",
+          "description": "Traveling to East Java will bring you to many unspoilt natural charms. Meru ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/east-java/meru-betiri-national-park/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Ijen Crater",
+          "lat-long": "-8.0599065,114.2411312,Ijen Crater",
+          "description": "Ijen plateau or known as \"Kawah Ijen\" is highly recommended to mountain buffs ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/east-java/ijen-crater/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Bromo Tengger Semeru National Park",
+          "lat-long": "-8.0218747,112.9502497,Bromo Tengger Semeru National Park",
+          "description": "Mount Bromo is a breathtakingly spectacular spot that waits to be discovered. Challenge yourself and visit Bromo!",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/east-java/bromo-tengger-semeru-national-park/84c19c5246880655cca5b26119dfeee672cb9b45-b2db3.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Surabaya",
+          "lat-long": "-7.2756141,112.641643,Searching for leisure in Surabaya? Read the details - Indonesia.Travel",
+          "description": "This city used to be the trading hub for the illustrious inland empires of ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/east-java/surabaya/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Baluran National Park",
+          "lat-long": "-7.8311831,114.3853618,Baluran National Park",
+          "description": "Baluran National Park, located on the east-most edge of Java, consists ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/east-java/baluran-national-park/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Malang",
+          "lat-long": "-7.9784695,112.5617416,Malang",
+          "description": "With leafy boulevards and a cooler climate, this city is a laid back ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/east-java/malang/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Magelang Regency",
+          "lat-long": "-7.5132034,110.104681,Magelang Regency",
+          "description": "Located some 40 kilometers northwest of the city of Yogyakarta and about 75 ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/central-java/magelang-regency/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Kota Gede",
+          "lat-long": "-7.8177991,110.3801338,Kota Gede",
+          "description": "This precinct is most famous as the centre of Yogya’s silver industry. There ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/di-yogyakarta/kota-gede/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Nglanggeran Tourism Village",
+          "lat-long": "-7.8516316,110.5112908,Nglanggeran Tourism Village",
+          "description": "Within the Gunungkidul Regency in Yogyakarta Province lies the charming Desa ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/di-yogyakarta/nglanggeran-tourism-village/Ngelangrang-5.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Nusa Kambangan Island",
+          "lat-long": "-7.7810037,109.9645611,Nusa Kambangan Island",
+          "description": "Have you ever imagine traveling to an island of prisoners? Nusa Kambangan is ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/central-java/nusa-kambangan-island/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Semarang",
+          "lat-long": "-7.5134772,109.9645611,Semarang",
+          "description": "In the 15th century, Chinese emperor’s emissary Zheng He, otherwise known as ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Semarang-new2.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Demak",
+          "lat-long": "-6.922967,110.3677445,Demak",
+          "description": "The town of Demak was the seat of the once powerful Demak Sultanate, the cradle ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/central-java/demak/cf2979ce9f4a17b9e6ef1719e529c05f019a9ccf-e69ed.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Dieng Plateau",
+          "lat-long": "-7.2142757,109.9126795,Dieng Plateau",
+          "description": "The name ‘dieng’ which literally translates as ‘abode of the Gods’ says all you ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/central-java/dieng-plateau/8fd35b9b05e1de6df3f9b54d49ed817d1f3002e5-59416.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Karimun Jawa",
+          "lat-long": "-5.8340435,110.426818,Karimun Jawa",
+          "description": "Situated some 90km northwest off the northern coast of Jepara Regency in ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/central-java/karimunjawa/00a3b55da99ea4b749a5d75822500712dc1803cd-9ee94.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Purwakarta",
+          "lat-long": "-6.592378,107.2711848,Purwakarta",
+          "description": "Strategically situated between the capital city of Jakarta and West Java’s ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/west-java/purwakarta/5484e63b9615e860de70436ffdd9c5231011e01e-dd701.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Cirebon",
+          "lat-long": "-6.905977,107.613144,Cirebon",
+          "description": "Cirebon located right on the border between the provinces of West Java and ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/west-java/cirebon/058b1d55e5176041550e85c311818512048a98d0-cec27.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Mount Halimun Salak National Park",
+          "lat-long": "-6.702511,106.5205113,Mount Halimun Salak National Park",
+          "description": "Halimun is a Sundanese Language translated as “mist”. The higher part of Mount ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/west-java/mount-halimun-salak-national-park/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Bogor",
+          "lat-long": "-6.5950181,106.7218508,Bogor",
+          "description": "Bogor is located at 60 km south, or a mere one hour by road from Jakarta. Once ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/west-java/bogor/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Pangandaran",
+          "lat-long": "-7.6545472,108.5849494,Pangandaran",
+          "description": "Pangandaran is located on a peninsula on the south coast of West Java, about 91 ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/west-java/pangandaran/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Seribu Archipelago",
+          "lat-long": "-5.6106064,106.0564722,Seribu Archipelago",
+          "description": "As your plane slowly descends for its approach to Jakarta’s Soekarno-Hatta ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/dki-jakarta/seribu-archipelago/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Jakarta",
+          "lat-long": "-6.12,106.150276,First time in Jakarta ? Get the inside tips - Indonesia.Travel",
+          "description": "Jakarta is the heart of Indonesia, a sprawling capital city, a vibrant ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/dki-jakarta/jkt-small.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Banyuwangi",
+          "lat-long": "-8.2169235,114.331131,Banyuwangi",
+          "description": "Banyuwangi literally means Aromatic Water, which is associated with the local legend.",
+          "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Banyuwangi-small.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Majalengka: The New Gateway to the Amazing Beauty of West Java",
+          "lat-long": "-6.592378,107.2711848,Majalengka: The New Gateway to the Amazing Beauty of West Java",
+          "description": "The brand new West Java International Airport (BIJB) in the Kertajati regency ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/java/west-java/majalengka-the-new-gateway-to-the-amazing-beauty-of-west-java/Header.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Museum Soesilo Soedarman, Cilacap - Indonesia",
+          "lat-long": "null,null,Museum Soesilo Soedarman, Cilacap - Indonesia",
+          "description": "Museum Soesilo Soedarman is located in Gentasari Village, Cilacap District, ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/point-of-interest/museum-soesilo-soedarman-cilacap-indonesia/Thumbnail_cilacap.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Bawean Deer, Indonesia’s Agile yet Endangered Pride",
+          "lat-long": "null,null,Bawean Deer, Indonesia’s Agile yet Endangered Pride",
+          "description": "Have you ever heard of Bawean Island? This small beautiful island is located ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/point-of-interest/bawean-deer-indonesia-s-agile-yet-endangered-pride/HEADERDEER.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        }
+      ],
+      "maluku-papua": [
+        {
+          "title": "Jayapura",
+          "lat-long": "-2.5649646,140.6109862,Jayapura",
+          "description": "Jayapura, located in East Papua, is the starting point for many travelers ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/maluku-papua/papua/jayapura/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Halmahera Island",
+          "lat-long": "0.6560292,127.0285281,Halmahera Island",
+          "description": "The remote Halmahera island, also called Gilolo or Jailolo, is the largest ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/maluku-papua/north-maluku/halmahera-island/f3f1a1555b2493d96848114dee5ae28736d65e60-54788.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Banda Neira",
+          "lat-long": "-4.5206447,129.8898481,Banda Neira",
+          "description": "Banda Neira or Banda Naira is one of ten volcanic islands in the Banda ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/maluku-papua/maluku/banda-neira/17476e4d07a5d8eab5c603168b1e5ef32248093f-b249c.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Ambon",
+          "lat-long": "-3.7045931,128.114753,Ambon",
+          "description": "Although small in size, Ambon island still offers plenty of experiences for adventurous travelers.",
+          "image": "/content/dam/indtravelrevamp/en/destinations/maluku-papua/maluku/ambon/ab15cc45ba850d815d68891f45af281aeaf3730b-2c77f.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Baliem Valley",
+          "lat-long": "-4.7162852,135.9685948,Baliem Valley",
+          "description": "High up in the mountains of central Papua at an altitude of 1,600 meters above ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/maluku-papua/papua/baliem-valley/7fa869795fc64133fc995fffcee156c91174d5ed-2d250.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Merauke",
+          "lat-long": "-8.5003146,140.3721359,Merauke",
+          "description": "At each break of day, Merauke is the first town in the Indonesian Archipelago ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/maluku-papua/papua/merauke/74926297631d373c1f59f79b8880a9cf1f908e9e-29ecc.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Manokwari",
+          "lat-long": "-0.8641952,134.0040573,Manokwari",
+          "description": "The town of Manokwari is located right on the top of the Bird’s Head Peninsula in Papua.",
+          "image": "/content/dam/indtravelrevamp/en/destinations/maluku-papua/west-papua/manokwari/3.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Asmat",
+          "lat-long": "-5.5785913,137.4758176,Asmat",
+          "description": "The wide south-eastern swathe of land of the Indonesian part of the island of ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/maluku-papua/papua/asmat/header.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Sorong",
+          "lat-long": "-0.8927348,131.1943545,Sorong",
+          "description": "The town of Sorong, located on the 'beak' of the Bird’s Head Peninsula in West ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/maluku-papua/west-papua/sorong/0aa9e06b95e7c23f95a1d87e1822b0ef289b628a-b876c.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Raja Ampat",
+          "lat-long": "-1.0318491,129.3835883,Dreaming of Raja Ampat ? Come make it happen - Indonesia.Travel",
+          "description": "Raja Ampat is where you should travel to experience the exotic underwater magic ...",
+          "image": "/content/dam/indtravelrevamp/activities/Destination-highlight/rajampat-small.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Ternate and Tidore",
+          "lat-long": "0.7452473,127.2364764,Ternate and Tidore",
+          "description": "The volcanic landscape of Ternate an Tidore has given the island its fertile ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/maluku-papua/north-maluku/ternate-and-tidore/b79f97077ad7c27751d652db5967dee33afd9ea2-bb535.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        }
+      ],
+      "bali-nusa-tenggara": [
+        {
+          "title": "Kuta",
+          "lat-long": "-8.7262375,115.1365133,Kuta",
+          "description": "Kuta today has become a popular beach destination in its own right, alive with ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/kuta/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Legian",
+          "lat-long": "-8.7043438,115.1630333,Legian",
+          "description": "Bali offers all kinds of travelling excitement for world wide visitors. ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/legian/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Jimbaran",
+          "lat-long": "[Ljava.lang.String;@20c29bf6,115.1249583,Jimbaran",
+          "description": "For those looking for a more relaxed alternative to the hustle and bustle that ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/jimbaran/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Seminyak",
+          "lat-long": "-8.6898902,115.1566542,Need to enjoy the laid-back atmosphere of Seminyak? Get a little closer here! - Indonesia.Travel",
+          "description": "Seminyak provides a serene luxury that will fulfill your tropical fantasy. Book ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/seminyak/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Kintamani",
+          "lat-long": "-8.2496405,115.2049054,Kintamani",
+          "description": "A young mother sits casually, grinding coffee beans using the traditional tools ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/kintamani/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Gunung Agung",
+          "lat-long": "-8.3431247,115.4370165,Gunung Agung",
+          "description": "Standing majestically on the eastern seaboard of Bali is the island’s highest ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/gunung-agung/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Sanur",
+          "lat-long": "-8.70422,115.2509381,Sanur",
+          "description": "The waters of Sanur are protected by a long string of offshore reefs, creating ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/sanur/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Denpasar",
+          "lat-long": "-8.6725072,115.1542321,What to see in Denpasar? Get the update now - Indonesia.Travel",
+          "description": "Denpasar is the main hub in Bali. The international gate to enter this island ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/denpasar/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Ubud",
+          "lat-long": "-8.4960247,115.2310197,How about a holiday in Ubud? Catch a glimpse here! - Indonesia.Travel",
+          "description": "Have you ever seen the soothing image of rice field terraces in Bali? If you ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/ubud/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Uluwatu",
+          "lat-long": "-8.7151433,114.9689948,Uluwatu",
+          "description": "Uluwatu is home of the most famous waves in Bali. The spot offers several waves ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/uluwatu/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Tanah Lot",
+          "lat-long": "-8.6212077,115.0846183,When to enjoy Tanah Lot? Read here now - Indonesia.Travel",
+          "description": "Tanah Lot epitomizes Bali as the romantic island. With temples perched high ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/tanah-lot/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Nusa Dua",
+          "lat-long": "-8.8087834,115.2221773,Nusa Dua | The World-Class Luxury – Indonesia.Travel",
+          "description": "Situated about 40 Km from Bali Island, Nusa Dua features many internationally ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/nusa-dua/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "West Bali National Park",
+          "lat-long": "-8.127633,114.475372,West Bali National Park",
+          "description": "West Bali National Park. Home to over a hundred species of wildlife, the ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/bali/west-bali-national-park/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Bali",
+          "lat-long": "-8.4550726,115.188916,Visiting Bali soon? Read this first",
+          "description": "Bali is one of the best tropical paradise Indonesia. People worldwide, travel ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Bali-small.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Sumbawa",
+          "lat-long": "-8.5932148,116.8324735,Sumbawa",
+          "description": "Situated in West Nusa Tenggara is the remote and tranquil island of Sumbawa. ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/west-nusa-tenggara/sumbawa/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Lombok",
+          "lat-long": "-8.582711,115.712512,Planning a leisure in Lombok? Start here! - Indonesia.Travel",
+          "description": "With divine beaches, the majestic Mt Rinjani and spectacular marine life to ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/LOmbok-small.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Alor Island",
+          "lat-long": "-8.3330119,123.9146503,Alor Island",
+          "description": "Extending at the east- most tip of Flores Island, still in the province of East ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/east-nusa-tenggara/alor-island/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Flores",
+          "lat-long": "-8.5056518,120.2867737,Feel like going to Flores? Find the essentials here - Indonesia.Travel",
+          "description": "Flores is Indonesia’s exquisite flower of the east. Hidden in the shadows of ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/east-nusa-tenggara/flores/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Labuan Bajo",
+          "lat-long": "-8.4493076,119.8292077,Going to Labuan Bajo ? Check these tips - Indonesia.Travel",
+          "description": "On the westernmost tip of the Island of Flores, the town of Labuan Bajo, or ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/east-nusa-tenggara/labuan-bajo/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Kupang on Timur",
+          "lat-long": "-10.177484,123.608881,Kupang on Timur",
+          "description": "During World War II, the city of Kupang, formerly known as Koepang, on the ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/bali-nusa-tenggara/east-nusa-tenggara/kupang-on-timur/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        }
+      ],
+      "sulawesi": [
+        {
+          "title": "Manado",
+          "lat-long": "1.5411542,124.6443972,Interested with the beautiful views Manado has to offer? Find out more - Indonesia.Travel",
+          "description": "Manado has stunning underwater landscapes and great mountain panoramas. Don’t ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/north-sulawesi/manado/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Poso",
+          "lat-long": "-1.3949761,120.7450172,Poso",
+          "description": "Lying just north of the Toraja highlands in South Sulawesi, Lake Poso is ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/central-sulawesi/poso/1f18057069adcd7a72d33fce103801ab9915037f-01f36.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Palu",
+          "lat-long": "-0.819027,119.7321614,Palu | A Sweet Welcome to the Iron Island – Indonesia.Travel",
+          "description": "Being the capital of the province, Palu is the gateway to any visit to the ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/central-sulawesi/palu/thumb/Page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Manado Tua Island",
+          "lat-long": "1.632955,124.6814794,Manado Tua Island",
+          "description": "Manado Tua (Old Manado) Island, together with the islands of Bunaken, Siladen, ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/north-sulawesi/manado-tua-island/ef57ea3fe7e705912499f87286e2711c51a74bea-2106c.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Tomohon",
+          "lat-long": "1.3306419,124.8013252,Tomohon",
+          "description": "When you visit this city during blossom season, you will see an amazing scenery ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/north-sulawesi/tomohon/a124102240c6d6e43f354abfe124e796ab298f46-c902d.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Gorontalo",
+          "lat-long": "0.676363,121.2352306,Gorontalo",
+          "description": "Gorontalo, is nestled in the calm waters of the northern shoreline of the ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/gorontalo/52c967dff5cfb705105c7178e668c9c1481b3ad6-9fb72.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Bitung",
+          "lat-long": "1.4667995,125.1106045,Bitung",
+          "description": "Bitung is the harbor of Manado city. It's located in the north eastern ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/north-sulawesi/bitung/2cbeff379def2b3025e2e657235414b498729025-ee647.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Kendari",
+          "lat-long": "-3.9848755,122.4670037,Kendari",
+          "description": "Sulawesi Tenggara (Southeast Sulawesi) is on one of the world’s most uniquely ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/south-east-sulawesi/kendari/efc1642a2d7c7a5d822ce95730e266a0783934d2-2b678.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Wakatobi",
+          "lat-long": "-5.4243419,123.5339724,Wakatobi",
+          "description": "Wakatobi, Home to Tropical Coral Reef and Colourful Fishes.",
+          "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Wakatobi-new2.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Tana Toraja",
+          "lat-long": "-3.0561797,119.426926,Tana Toraja",
+          "description": "Tana Toraja is safely protected beyond the lofty mountains and rugged granite ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/-south-sulawesi/tana-toraja/c4ece71ffc567410b715f6b8632fc2a42ce7e1cb-0f296.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Selayar",
+          "lat-long": "-6.1321489,120.2170325,Selayar",
+          "description": "Located at the most southern end of South Sulawesi, this quiet and now isolated ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/south-sulawesi/selayar/45241e7b8d3f9ad18e46ec4bb2f8980eabc31c85-0d362.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Makassar",
+          "lat-long": "-5.1114743,119.2625369,What can you find in Makassar? Browse the info here - Indonesia.Travel",
+          "description": "Makassar is the largest city in eastern Indonesia and the capital city of South Sulawesi province.",
+          "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Makassar-small.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Mamuju",
+          "lat-long": "-2.5502461,118.6907009,Mamuju",
+          "description": "Although it is the capital of South Sulawesi Province, the town of Mamuju is ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sulawesi/west-sulawesi/mamuju/11bad36dedc3f7d01fca9dcf227cdcf602c8a7cb-193d9.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        }
+      ],
+      "kalimantan": [
+        {
+          "title": "Singkawang",
+          "lat-long": "0.8838518,108.8223064,Singkawang",
+          "description": "Singkawang is the capital of West Kalimantan and the second largest city in the ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/kalimantan/west-kalimantan/singkawang/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Tarakan",
+          "lat-long": "3.3553269,117.5076686,Tarakan",
+          "description": "Situated just across the border from Sabah, Malaysia, the town and island of ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/kalimantan/north-kalimantan/tarakan/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Palangkaraya",
+          "lat-long": "-2.2096162,113.8666453,Palangkaraya",
+          "description": "Palangkaraya or Honoured and Sacred Great Place, is the capital city of Central Kalimantan.",
+          "image": "/content/dam/indtravelrevamp/en/destinations/kalimantan/central-kalimantan/palangkaraya/1.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Pangkalan Bun",
+          "lat-long": "-2.6889619,111.6136432,Pangkalan Bun",
+          "description": "Pangkalan Bun is a pleasant town on the Arut River. 'Whoever drank from the ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/kalimantan/central-kalimantan/pangkalan-bun/thumb/page-thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Balikpapan",
+          "lat-long": "-1.1742562,116.7016588,Balikpapan",
+          "description": "Balikpapan is located on the south eastern coast of East Kalimantan facing the ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/kalimantan/east-kalimantan/balikpapan/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Derawan Archipelago",
+          "lat-long": "2.225534,118.1832178,Derawan Archipelago",
+          "description": "Derawan is Indonesia’s largest nesting site of the rare and endangered giant ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/kalimantan/east-kalimantan/derawan-archipelago/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Kuala Kapuas",
+          "lat-long": "-2.9802914,114.3775442,Kuala Kapuas",
+          "description": "Kuala Kapuas is located at Kapuas River, 40 km from Banjarmasin. It is one of ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/kalimantan/south-kalimantan/kuala-kapuas/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Banjarmasin",
+          "lat-long": "-3.3171351,114.5591928,Banjarmasin",
+          "description": "Banjarmasin is the best place to absorb Kalimantan’s urban culture, both on land as on the waters.",
+          "image": "/content/dam/indtravelrevamp/en/destinations/kalimantan/south-kalimantan/banjarmasin/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Martapura",
+          "lat-long": "-3.4115979,114.8364452,Martapura",
+          "description": "Situated some 45 km east of Banjarmasin, capital of South Kalimantan Province, ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/kalimantan/south-kalimantan/martapura/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Pontianak",
+          "lat-long": "-0.0352232,109.2615093,Pontianak | A Wonder on the Zero Equator Point – Indonesia.Travel",
+          "description": "Curious on how it looks like on the city that touches the zero equator point in ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/kalimantan/west-kalimantan/pontianak/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        }
+      ],
+      "sumatera": [
+        {
+          "title": "Weh Island",
+          "lat-long": "5.8396809,95.2262007,Weh Island",
+          "description": "Situated at the entrance way of the Malacca Strait, Weh Island is naturally ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/nanggroe-aceh-darussalam/weh-island/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "‘ALL TIME NIAS’ Surfing at Sorake Bay and Lagundri Beach",
+          "lat-long": "1.04363,96.9426,‘ALL TIME NIAS’ Surfing at Sorake Bay and Lagundri Beach",
+          "description": "When it comes to surfing in Indonesia, Lagundri Beach at the Bay of Sorake on ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/north-sumatra/nias/header.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "TELUK DALAM: The Sparkling Gem of South NIAS",
+          "lat-long": "1.04363,96.9426,TELUK DALAM: The Sparkling Gem of South NIAS",
+          "description": "The lovely little town of Teluk Dalam is an amazing fusion of beautiful ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/teluk-dalam-the-sparkling-gem-of-south-nias/header1.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Banda Aceh",
+          "lat-long": "5.5611863,95.2936827,Banda Aceh",
+          "description": "Its auspicious position on the tip of the westernmost point of the Indonesian ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/nanggroe-aceh-darussalam/banda-aceh/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Berastagi",
+          "lat-long": "3.750531,98.470528,Berastagi",
+          "description": "The picturesque town of Berastagi in the beautiful Karo highlands, is 70 km ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/north-sumatra/berastagi/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Lake Toba",
+          "lat-long": "2.6114159,98.555761,Lake Toba | The Gigantic Ancient Crater – Indonesia.Travel",
+          "description": "Lake Toba is one of the awesome natural wonders of the world. This enormous ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Lake-toba-new2.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Takengon",
+          "lat-long": "4.6310032,96.8290581,Takengon",
+          "description": "Takengon is a 100 km town from the westernmost edge with population no more ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/nanggroe-aceh-darussalam/takengon/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Medan",
+          "lat-long": "3.5952,98.6722,Curious about the abundance of delight in the city of Medan? Catch a glimpse here! - Indonesia.Travel",
+          "description": "Medan is a city in Indonesia that delivers ethnic diversities and scrumptious ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Medan-small.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Sibolga",
+          "lat-long": "1.7308648,98.7665508,Sibolga",
+          "description": "The town of Sibolga is the main sea port on the west coast of the province of ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/north-sumatra/sibolga/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Pekanbaru",
+          "lat-long": "0.533505,101.447403,Pekanbaru",
+          "description": "Pekanbaru is the capital of Riau Province and is the third largest city on the ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/riau/pekanbaru/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Pelalawan",
+          "lat-long": "0.1638831,101.8751221,Pelalawan",
+          "description": "Pelalawan is a Regency of the Riau Province, currently one of the richest ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/riau/pelalawan/thumb/page-thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "The Natuna Islands",
+          "lat-long": "4.0000213,108.2412452,The Natuna Islands",
+          "description": "The Natuna islands together with the Anambas Archipelago are Indonesia’s ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/riau-archipelago/the-natuna-islands/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Batam",
+          "lat-long": "0.8378426,103.7729088,Batam Island | Where Business Meets Pleasure – Indonesia.Travel",
+          "description": "Located on the tip of Indonesia border just across Singapore Island, Batam is a ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/thumb-higlight/Batam-new2.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Bintan Island",
+          "lat-long": "1.020259,104.1565955,Ever heard about the famous Bintan Island? Get to know more about it! – Indonesia.Travel",
+          "description": "With all of its mesmerizing fascinations, Bintan Island is a paradise you ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/bintan-island/header1-small.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Tanjung Pinang",
+          "lat-long": "0.9170613,104.4145567,Tanjung Pinang | The Doorway to Paradise – Indonesia.Travel",
+          "description": "Tanjung Pinang is a good start for those who want to explore the richness of ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/riau-archipelago/tanjung-pinang/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Tanjung Balai Karimun",
+          "lat-long": "0.998911,103.4219558,Tanjung Balai Karimun",
+          "description": "Located in the west of Singapore and Batam, the Karimun Islands stand guard ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/riau-archipelago/tanjung-balai-karimun/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Padang",
+          "lat-long": "-0.9689348,100.1547451,Curious to explore the rich spices in Padang? Check the info here! - Indonesia.Travel",
+          "description": "Padang is the gateway to Minang highlands. Famous for their cuisines rich in ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/west-sumatra/padang/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Payakumbuh",
+          "lat-long": "-0.2294096,100.5977331,Payakumbuh",
+          "description": "Payakumbuh is the capital of the Limapuluh Kota Regency. Covering a total area ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/west-sumatra/payakumbuh/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Bukittinggi",
+          "lat-long": "-0.3027177,100.3544704,Bukittinggi",
+          "description": "Many visitors come to Bukittinggi to visit the remarkable Ngarai Sianok Canyon ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/west-sumatra/bukittinggi/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Sawah Lunto",
+          "lat-long": "-0.6611257,100.61654,Sawah Lunto",
+          "description": "An hour's drive from Padang, the capital city of West Sumatra Province, to its ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/west-sumatra/sawahlunto/7500059f5fc56aa3cf6cf11fe1de99906bf4bb10-47f32.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Palembang",
+          "lat-long": "-2.9547949,104.6929233,Feel like exploring the legacy of Sriwijaya in Palembang? Find the essentials here - Indonesia.Travel",
+          "description": "Palembang is one of the city in Indonesia that is rich in cultural heritage. Visit Palembang and enjoy your time!",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/south-sumatra/palembang/header.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Sembilang National Park",
+          "lat-long": "-2.3444854,103.9802851,Sembilang National Park",
+          "description": "Administratively, it is part of Banyuasin district and has been a national park ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/south-sumatera/sembilang-national-park/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Mount Kerinci",
+          "lat-long": "-1.6966451,101.2554118,Mount Kerinci",
+          "description": "Mt Kerinci is the highest mountain on the island of Sumatra and it is popular ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/jambi/mount-kerinci/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Pangkalpinang",
+          "lat-long": "-2.1159086,106.0855071,Pangkalpinang",
+          "description": "Located on the eastern coast of Bangka Island, Pangkalpinang is the island’s ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/bangka-belitung/pangkalpinang/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Belitung",
+          "lat-long": "-2.8987093,107.633843,Have you heard the wonders of Belitung’s beaches? Catch a glimpse of it here - Indonesia.Travel",
+          "description": "Belitung Island is blessed by the best beaches in Indonesia. Now bless yourself ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/bangka-belitung/belitung/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Way Kambas National Park",
+          "lat-long": "-4.9275705,105.7747396,Way Kambas National Park",
+          "description": "Officially established in 1985, the Elephant Training Center, located 9 km from ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/lampung/way-kambas-national-park/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Bandar Lampung",
+          "lat-long": "-5.4284046,105.2006969,Bandar Lampung",
+          "description": "On Lampung Bay, 20 km south of the city center, visitors can enjoy the calm ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/lampung/bandar-lampung/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Bengkulu City",
+          "lat-long": "-3.8251718,102.2345376,Bengkulu City",
+          "description": "Bengkulu Province is easily accessible by land, air and sea transportation. You ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/bengkulu/bengkulu-city/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "The Town of Curup",
+          "lat-long": "-3.4702155,102.5110626,The Town of Curup",
+          "description": "The Town of Curup is located approximately 85 km away from Bengkulu city. The ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/bengkulu/the-town-of-curup/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Rat Island (Pulau Tikus)",
+          "lat-long": "-3.7942868,102.2464041,Rat Island (Pulau Tikus)",
+          "description": "Rocky coral reefs circle the entire circumference of the island, protecting it ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/bengkulu/rat-island-(pulau-tikus)/thumb/page-thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        },
+        {
+          "title": "Jambi",
+          "lat-long": "-1.6102634,103.5394873,Jambi",
+          "description": "The city of Jambi straddles the long and wide Batanghari river that has its ...",
+          "image": "/content/dam/indtravelrevamp/en/destinations/sumatra/jambi/jambi/thumb/page_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.642.428.png"
+        }
+      ]
     }
-  ]
+  }
 }
